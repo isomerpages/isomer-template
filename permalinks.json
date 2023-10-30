@@ -1,0 +1,18 @@
+[
+  {
+    "slug": [],
+    "file": "index.md"
+  },
+  {
+    "slug": ["about"],
+    "file": "pages/about-us.md"
+  },
+  {
+    "slug": ["history"],
+    "file": "pages/history.md"
+  },
+  {
+    "slug": ["contact-us"],
+    "file": "pages/contact-us.md"
+  }
+]
